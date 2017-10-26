@@ -1,0 +1,76 @@
+section {
+    display: flex;
+}
+
+section .nav {
+    width: 15%;
+    background-color: #064685;
+    height: 100vh;
+    position: fixed;
+    color: yellow;
+}
+
+section .main {
+    width: 85%;
+    margin-left: 15%;
+    height: 100vh;
+}
+
+
+/*# sourceMappingURL= styles.css.map */
+
+
+/*Class-main styling starts here*/
+
+.head {
+    padding: 10px
+}
+
+#summary {
+    margin-top: 50px;
+    padding: 20px;
+    background: #e7eff5;
+}
+
+#summary h1 {
+    color: #2f363d !important;
+}
+
+.graph {
+    width: 100%;
+    height: 400px;
+    background: #fff;
+    border: 1px solid #b8bbf7;
+    border-radius: 5px
+}
+
+.stats {
+    width: 100%;
+    padding: 20px;
+    background: #fff;   
+    border: 1px solid #b8bbf7;
+    margin-top: 30px;
+    border-radius: 5px
+}
+
+.blue {
+    color: #064685 !important;
+}
+
+.side{
+    border-right: 1px solid #ccc
+}
+
+.thanks{
+    border: 1px solid #adc3db;
+    background-color: #edf3f8;
+    width: 97%;
+    margin-left: 12px;
+    border-radius: 5px;
+    padding: 15px;
+    color: #064685;
+}
+
+hr{
+    border: 1px solid #adc3db; 
+}
